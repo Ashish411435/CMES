@@ -49,5 +49,8 @@
 
 /* Contact Page */
 .contact-form-wrapper.for-map{
-    margin-bottom: 130px !important;
+    margin-bottom: 90px !important;
+}
+.contact-map-section{
+    margin-bottom: 90px !important;
 }

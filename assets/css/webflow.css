@@ -3086,14 +3086,16 @@ figure {
 
 .hero-section.with-bg {
   background-color: var(--background--common-bg);
-  background-image: url("https://cdn.prod.website-files.com/663b34c56f05c8c9e12aafdc/664058919f21cfec93f3fe47_hero-bg.jpg");
+  background-color: #fca12c1f;
+  /* background-image: url("https://cdn.prod.website-files.com/663b34c56f05c8c9e12aafdc/664058919f21cfec93f3fe47_hero-bg.jpg"); */
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .hero-section.with-bg-two {
-  background-color: var(--color--primary);
-  background-image: url("https://cdn.prod.website-files.com/663b34c56f05c8c9e12aafdc/664594f5b9e137f000ec8e6f_hero-bg-2.jpg");
+  /* background-color: var(--color--primary); */
+  background-color: #fca12c1f;
+  /* background-image: url("https://cdn.prod.website-files.com/663b34c56f05c8c9e12aafdc/664594f5b9e137f000ec8e6f_hero-bg-2.jpg"); */
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
