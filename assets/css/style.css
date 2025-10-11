@@ -1,0 +1,21 @@
+/* Custom CSS */
+
+/* Start: Header */
+.nav-link.active{
+    color: var(--color--primary);
+}
+.nav-logo{
+    width: 125px;
+}
+/* End: Header */
+
+/* Start: Footer */
+.footer-logo{
+    width: 130px;
+}
+/* End: Footer */
+
+/* Contact Page */
+.contact-form-wrapper.for-map{
+    margin-bottom: 130px !important;
+}
