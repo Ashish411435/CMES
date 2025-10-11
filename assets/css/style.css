@@ -11,7 +11,39 @@
 
 /* Start: Footer */
 .footer-logo{
-    width: 130px;
+    width: 160px;
+}
+.footer-widget:first-child{
+    max-width: 320px;
+}
+.footer-widget-summary{
+    text-align: justify;
+    font-size: 16px;
+    max-width: 100%;
+}
+.footer-widget-title{
+    margin-bottom: 15px;
+}
+.footer-widget-office-hour{
+    margin-top: 15px;
+}
+.footer-widget-reach-out-link.gap-bottom-25{
+    margin-bottom: 10px;
+}
+.new-product-list.w-list-unstyled{
+    grid-row-gap: 10px;
+}
+.footer-bottom-block{
+    justify-content: center;
+}
+.footer-contact-a{
+    display: flex;
+    gap: 16px;
+}
+.footer-contact-a i{
+    padding-top: 5px;
+    font-size: 16px;
+    width: 10px;
 }
 /* End: Footer */
 
