@@ -9,6 +9,10 @@
 }
 /* End: Header */
 
+.service-detail-main-wrapper{
+  display: unset;
+}
+
 /* Start: Footer */
 .footer-logo {
   width: 160px;
@@ -44,6 +48,10 @@
   padding-top: 5px;
   font-size: 16px;
   width: 10px;
+}
+.footer-contact-a svg{
+  padding-top: 5px;
+  overflow: visible !important;
 }
 /* End: Footer */
 
