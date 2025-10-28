@@ -1,5 +1,33 @@
 /* Custom CSS */
 
+.pl-0{
+  padding-left: 0;
+}
+.pt-0{
+  padding-top: 0;
+}
+.pb-0{
+  padding-bottom: 0;
+}
+.pr-0{
+  padding-right: 0;
+}
+.pb-3{
+  padding-bottom: 3rem;
+}
+.pt-2{
+  padding-top: 2rem;
+}
+.pt-5{
+  padding-top: 5rem;
+}
+.nowrap{
+  white-space: nowrap;
+}
+.list-style-none{
+  list-style: none;
+}
+
 /* Start: Header */
 .nav-link.active {
   color: var(--color--primary);
@@ -144,3 +172,27 @@
   margin-left: 1px;
 }
 /* /WhatsApp Pulse Button */
+
+/* About Us Page */
+.about-group-block-two{
+  grid-template-columns: 1fr;
+}
+.funfact-single-block.first-child, .funfact-single-block.last-child {
+    border-right: none;
+    border-bottom: none;
+    border-top: none;
+    border-left: none;
+}
+.about-funfact-section.gap-for-video-section {
+    padding-bottom: 285px;
+}
+.funfact-wrapper.for-about {
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    text-align: center;
+    grid-template-rows: auto;
+    grid-template-columns: 1fr;
+    grid-auto-columns: 1fr;
+    display: flex !important;
+}
+/* /About Us Page */

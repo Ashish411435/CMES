@@ -5146,7 +5146,7 @@ figure {
   font-size: 32px;
 }
 
-.service-primary-detail-content ul {
+.service-primary-detail-content ul, .checklist {
   grid-row-gap: 30px;
   flex-flow: column;
   margin-top: 25px;
@@ -5156,7 +5156,7 @@ figure {
   display: flex;
 }
 
-.service-primary-detail-content li {
+.service-primary-detail-content li, .checklist li {
   background-image: url("https://cdn.prod.website-files.com/663b34c56f05c8c9e12aafdc/66546ee8005e2019b81ffdb9_square-checkmark.svg");
   background-position: 0 0;
   background-repeat: no-repeat;
