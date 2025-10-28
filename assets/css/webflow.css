@@ -3107,7 +3107,7 @@ figure {
 
 .hero-wrapper {
   grid-template-rows: auto;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1.25fr 1fr;
   grid-auto-columns: 1fr;
   display: grid;
   position: relative;
@@ -7451,7 +7451,7 @@ figure {
   }
 
   .hero-wrapper {
-    grid-template-columns: 1fr 1.25fr;
+    grid-template-columns: 1.5fr 1.2fr;
   }
 
   .hero-wrapper.hero-gap, .hero-wrapper.hero-gap-top {
