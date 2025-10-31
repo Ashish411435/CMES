@@ -195,4 +195,28 @@
     grid-auto-columns: 1fr;
     display: flex !important;
 }
+.about-secondary-block img.global-image{
+  max-height: 280px;
+}
 /* /About Us Page */
+
+/* Service Page */
+.service-image{
+  height: 325px;
+}
+.service-detail-image{
+  height: 450px;
+}
+/* /Service Page */
+
+/* Testimonial  */
+.testimonial-block.for-slide-two-items, .testimonial-block.for-single-slide-item{
+  /* transform: unset !important; */
+}
+/* /Testimonial  */
+
+@media screen and (max-width: 991px) {
+  .testimonial-banner-block{
+    display: none;
+  }
+}

@@ -4172,12 +4172,14 @@ figure {
 }
 
 .hero-image-two {
-  align-self: flex-end;
+  align-self: normal;
+  height: 90%;
 }
 
 .hero-image-wrapper-two {
   display: flex;
   overflow: hidden;
+  justify-content: end;
 }
 
 .hero-content-two {
